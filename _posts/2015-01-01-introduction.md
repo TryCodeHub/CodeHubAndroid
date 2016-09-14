@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: "Introduction"
-subtitle: "An overview of how the <strong>Web</strong> works"
+subtitle: "कैसे <strong> हम </ strong> वर्क्स का अवलोकन"
 section: web
 ---
 
